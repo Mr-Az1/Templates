@@ -87,3 +87,4 @@ signed main(){
 	printf("power(a,10)=%d power(b,10)=%d\n",raw(power(a,10)),raw(power(b,10)));
 	return 0;
 }
+
